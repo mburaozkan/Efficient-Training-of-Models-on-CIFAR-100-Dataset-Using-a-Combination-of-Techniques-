@@ -24,10 +24,10 @@ The performance and application of several algorithms are the main topics of thi
 the following diagram and reports shows the performance of testing data of the dataset including 10 classes (digits classes)
 
 <p align="center" width="100%">
-  <img src="https://res.cloudinary.com/dvdcninhs/image/upload/v1610484745/testingPSO_eejk9w.png" width="500" hight="500"/>
+  <img src="./images/table.png" width="500" hight="500"/>
 </p>
 <p align="center" width="100%">
-  <img src="https://res.cloudinary.com/dvdcninhs/image/upload/v1610484745/plotPSO_oiqreo.png" width="500" hight="500"/>
+  <img src="./images/results.png" width="500" hight="500"/>
 </p>
 
 ## Conclusion
